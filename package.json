@@ -1,0 +1,8 @@
+{
+  "name": "event_list",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "create-react-class": "^15.6.2"
+  }
+}
